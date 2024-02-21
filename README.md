@@ -9,7 +9,7 @@ Country = "🇮🇳"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monimano&label=Profile%20views&color=0e75b6&style=flat" alt="monimano" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monimano" alt="monimano" /></a> </p>
+
 
 
 
@@ -35,6 +35,15 @@ You can click the Preview link to take a look at your changes.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monimano&show_icons=true&locale=en" alt="monimano" /></p>
 
+## Github Trophy🏆
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MoniiMano&theme=onedark)](https://github.com/MoniiMano)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MoniiMano&theme=chartreuse-dark&hide_border=True" alt="MoniiMano"/></p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20💙-red?style=for-the-badge&logo=github"/>
+</p>
 
 
 
