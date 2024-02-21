@@ -11,7 +11,7 @@ Country = "🇮🇳"
 
 
 
-- 👨‍💻 I'm a **Frontend Developer**.
+- 👩‍💻 I'm a **Frontend Developer**.
 - 🔭 I’m currently Looking for **Frontend Developer Job Role**
 - 👀 I’m interested in ... **Technology**
 - 🌱 I’m currently **learning** ...
