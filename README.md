@@ -11,12 +11,12 @@ Country = "🇮🇳"
 
 
 
-- 👨‍💻 I'm a Frontend Developer.
+- 👨‍💻 I'm a **Frontend Developer**.
 - 🔭 I’m currently Looking for **Frontend Developer Job Role**
-- 👀 I’m interested in ... Technology
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in ... **Technology**
+- 🌱 I’m currently **learning** ...
 - 💬 Ask me about **react**
-- 📫 How to reach me ...[Instagram](https://www.instagram.com/monii_mano/)
+- 📫 How to reach me ...**[Instagram](https://www.instagram.com/monii_mano/)**
 
 
 
